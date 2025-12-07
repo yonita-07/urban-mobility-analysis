@@ -104,21 +104,11 @@ All charts are included in the report notebook:
 - Experiment with gradient boosting models (XGBoost, LightGBM)
 - Build an interactive Streamlit dashboard
 - Add geospatial visualisation for route‑level delay mapping
-```
 
 
- * [data](Urban_mobility_analysis/data)
-   * [cleaned_train_delays_full.csv](Urban_mobility_analysis/data/cleaned_train_delays_full.csv)
- * [notebooks](Urban_mobility_analysis/notebooks)
-   * [urban-mobility-analysis-code.ipynb](Urban_mobility_analysis/notebooks/urban-mobility-analysis-code.ipynb)
-   * [report](Urban_Mobility_Analysis/notebooks/report)
-     * [urban_mobility_analysis.ipynb](Urban_mobility_analysis/notebooks/report/urban_mobility_analysis.ipynb)
- * [README.md](Urban_mobility_analysis/README.md)
+
+
 
 
   
-## Future Work
-- Integrate external factors (weather, events, maintenance logs)
-- Experiment with gradient boosting models(XGBoost, LightGBM)
-- Build an interactive Streamlit dashboard
-- Add geospatial visualisation for route-level delay mapping
+

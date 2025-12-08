@@ -18,16 +18,13 @@ It includes:
 
 ## Project Structure
 
-```text
-Urban_mobility_analysis/
-├── data/
-│   └── cleaned_train_delays_full.csv
-├── notebooks/
-│   ├── urban-mobility-analysis-code.ipynb      
-│   └── report/
-│       └── urban_mobility_analysis.ipynb      
-└── README.md
-```
+ * [Urban_mobility_analysis/data](Urban_mobility_analysis/data)
+   * [cleaned_train_delays_full.csv](Urban_mobility_analysis/data/cleaned_train_delays_full.csv)
+ * [Urban_mobility_analysis/notebooks](Urban_mobility_analysis/notebooks)
+   * [urban-mobility-analysis-code.ipynb](Urban_mobility_analysis/notebooks/urban-mobility-analysis-code.ipynb)
+   * [Urban_mobility_analysis/notebooks/report](Urban_mobility_analysis/notebooks/report)
+     * [urban_mobility_analysis.ipynb](Urban_mobility_analysis/notebooks/report/urban_mobility_analysis.ipynb)
+ * [README.md](README.md)
 
 ## Data Description
 

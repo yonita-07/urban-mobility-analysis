@@ -91,11 +91,11 @@ All charts are included in the report notebook:
 - A simple Logistic Regression model predicts delays with ~85% accuracy.
 - Operational factors (station, load, train type) play a major role in delay likelihood and can be used to prioritize interventions.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages & Libraries:** Python 3.10, pandas, numpy, matplotlib, seaborn, scikit‑learn  
 - **Machine Learning:** Logistic Regression, train/test split, class imbalance handling, hyperparameter tuning (RandomizedSearchCV)  
-- **Data Work:** Data cleaning, feature engineering, time‑based analysis, EDA and visualization  
+- **Data Work:** Data cleaning, feature engineering, time‑based analysis, EDA and visualization 
 - **Tools:** Jupyter Notebook, Git/GitHub
 
 ## Future Work

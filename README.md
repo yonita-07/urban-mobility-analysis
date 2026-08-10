@@ -11,7 +11,7 @@ It includes:
 - Exploratory data analysis (EDA)
 - Visualisations
 - Feature engineering
-- Model training using Logistic Regression
+- Model training using Random Forest
 - Hyperparameter tuning
 - Evaluation
 - Final insights
@@ -58,7 +58,7 @@ It includes:
 
 ## Machine Learning Model
 
-- **Model used:** Logistic Regression  
+- **Model used:** Random Forest  
 - **Hyperparameter tuning:** `RandomizedSearchCV`
 
 **Final Model Performance**
@@ -85,13 +85,13 @@ All charts are included in the report notebook:
 ## Conclusion
 
 - Train delays show clear **hourly** and **station‑based** patterns.
-- A simple Logistic Regression model predicts delays with ~85% accuracy.
+- A simple Random Forest model predicts delays with ~85% accuracy.
 - Operational factors (station, load, train type) play a major role in delay likelihood and can be used to prioritize interventions.
 
 ## Technical Skills
 
 - **Languages & Libraries:** Python 3.10, pandas, numpy, matplotlib, seaborn, scikit‑learn  
-- **Machine Learning:** Logistic Regression, train/test split, class imbalance handling, hyperparameter tuning (RandomizedSearchCV)  
+- **Machine Learning:** Random Forest, train/test split, class imbalance handling, hyperparameter tuning (RandomizedSearchCV)  
 - **Data Work:** Data cleaning, feature engineering, time‑based analysis, EDA and visualization 
 - **Tools:** Jupyter Notebook, Git/GitHub
 
